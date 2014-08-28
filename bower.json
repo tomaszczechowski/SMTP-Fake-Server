@@ -1,0 +1,24 @@
+{
+  "name": "smtp-fake-server",
+  "version": "0.1.0",
+
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "jquery": "2.0.3",
+    "angular": "1.2.8",
+    "json3": "~3.3.1",
+    "angular-route": "1.2.8",
+    "angular-mocks": "1.2.8",
+    "requirejs": "2.1.10"
+  },
+
+  "appPath": "app"
+}
